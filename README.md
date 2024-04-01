@@ -3,7 +3,7 @@
 
 An avid electronic music collector, I have a large local archive of purchased tracks. For me, these songs are a journey into various chapters of my life. Some are nostalgic, while others make me dream about the future.
 
-This project is a long time vision of mine to create a soundscare to explore and re-discover my personal music archive.
+This project is a long time vision of mine to create a soundscape to explore and re-discover my personal music archive.
 
 ## Getting Started
 

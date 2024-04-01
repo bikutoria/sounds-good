@@ -9,6 +9,8 @@ This project is a long time vision of mine to create a soundscare to explore and
 
 While this project was built around my personal library, you can reuse the code with minor modifications.
 
+To view the latest visualization, download my-library-vector-visualization.html and open it in your browser. (Web version is coming up soon.)
+
 ## What I used
 
 I used python to manipulate data, predominantly the following libraries:

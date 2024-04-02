@@ -11,7 +11,7 @@ While this project was built around my personal library, you can reuse the code 
 
 To view the latest visualization, download my-library-vector-visualization.html and open it in your browser. (Web version is coming up soon.)
 
-![](https://github.com/bikutoria/sounds-good/screen-capture.gif)
+![](https://github.com/bikutoria/sounds-good/blob/master/screen-capture.gif?raw=true)
 
 ## What I used
 

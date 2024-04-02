@@ -7,9 +7,11 @@ This project is a long time vision of mine to create a soundscape to explore and
 
 ## Getting Started
 
-While this project was built around my personal library, you can reuse the code with minor modifications.
+While this project was built around my personal library, you can reuse the code with minor modifications. Change the path to your music folder in path.txt
 
 To view the latest visualization, download my-library-vector-visualization.html and open it in your browser. (Web version is coming up soon.)
+
+![](https://github.com/bikutoria/soundsgood/screen-capture.gif)
 
 ## What I used
 
